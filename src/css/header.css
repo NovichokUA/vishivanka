@@ -1,6 +1,8 @@
 /* Petro Kovtsun start style header section */
 .header-section {
   background-color: var(--primary-color, #1c2225);
+  position: fixed;
+  z-index: 999;
 }
 
 .header-general-div {
