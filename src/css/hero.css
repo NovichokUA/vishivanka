@@ -10,7 +10,7 @@
 
 .hero {
   background: var(--primary-color);
-  padding-top: 36px;
+  padding-top: 126px;
 }
 
 .link-order-hero {
@@ -64,12 +64,12 @@
 
   .hero {
     position: relative;
-    padding-top: 82px;
+    padding-top: 172px;
   }
 
   .hero-icon-text-wrapper {
     position: absolute;
-    top: 80px;
+    top: 170px;
     right: 32px;
     display: flex;
     flex-direction: column;
